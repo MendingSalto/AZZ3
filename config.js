@@ -12,12 +12,12 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['AzzBot-MD']
-global.namaowner = ['YahyaGanzz']
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.packname = 'AzzBot-MD'
-global.author = 'WhatsApp•Bot'
+global.namabot = ['KoKo-MD']
+global.namaowner = ['ReyGanzz']
+global.owner = ['6285232604817']
+global.premium = ['6285771052661']
+global.packname = 'KoKo•Rey-MD'
+global.author = 'KoKoRey•Bot'
 global.sessionName = 'Xavior'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -29,7 +29,7 @@ global.mess = {
     group: 'Itu Khusus Grup Bre...!',
     private: 'Cuma Bisa Chat Pribadi Bre...',
     bot: 'Khusus Nomor Bot',
-    wait: 'Tunggu Sejam...',
+    wait: 'Tunggu Setahun...',
     endLimit: 'Limit Harian Sudah Habis, Limit Akan Direset Besok',
 }
 //Kalo Ngasih Limit Jangan Dikit Lah Bng
